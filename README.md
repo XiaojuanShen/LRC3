@@ -1,6 +1,6 @@
 # LRC3
 
-A tool for inferring Ligand-receptor based cell-cell comminication in Single cell RNAseq data.
+Ligand-Receptor based Cell-Cell Communication (LRC3) is a tool for detecting and visualizing the communication between different cell types based on the expression of ligands and receptors of scRNASeq data. 
 
 Installation :
 
